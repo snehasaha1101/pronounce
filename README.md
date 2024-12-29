@@ -3,7 +3,7 @@
 
 📝 Description
 
-I thought of creating an extension in Google Chrome to pronounce words. This extension allows users to highlight any word on a webpage and hear its pronunciation using Chrome's built-in text-to-speech feature. It's a simple yet powerful tool to improve vocabulary, language learning, or just satisfy curiosity about word pronunciations.
+There are many words whose pronunciation we may not know. Copying and pasting the word into Chrome to find its pronunciation can be time-consuming. Therefore, I thought of designing a Chrome extension that pronounces words instantly with just a right-click!
 
 🚀 Features
 
