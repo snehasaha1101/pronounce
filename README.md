@@ -15,6 +15,10 @@ Supports Chrome's text-to-speech engine.
 
 Works across all websites.
 
+🚀🚀Demo
+![image](https://github.com/user-attachments/assets/033a829e-8c29-4fc4-9e46-c5a0a2036ba2)
+
+
 🛠️ How to Use
 
 Install the extension in Chrome.
