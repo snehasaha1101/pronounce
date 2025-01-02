@@ -17,7 +17,8 @@ Works across all websites.
 
 🚀🚀Demo
 
-![image](https://github.com/user-attachments/assets/033a829e-8c29-4fc4-9e46-c5a0a2036ba2)
+![image](https://github.com/user-attachments/assets/a364c146-cf69-4a45-9f50-bda6996ca76d)
+
 
 
 🛠️ How to Use
